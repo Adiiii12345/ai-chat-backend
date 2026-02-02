@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Itt maradhat a saját kiegészítésed */
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0f172a; /* Ez a slate-900 színe, hogy ne legyen fehér a villanás */
+}
